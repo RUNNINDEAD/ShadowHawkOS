@@ -1,8 +1,5 @@
 # ShadowHawkOS
 
-
-# ShadowHawkOS
-
 **ShadowHawkOS** is a beautiful and highly customized Kali Linux-based operating system designed for cybersecurity professionals, ethical hackers, and OSINT enthusiasts.
 
 ## 🔧 Features
